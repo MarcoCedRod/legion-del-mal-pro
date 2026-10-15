@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # 🦹‍♂️ La Legión del Mal - Desde remoto
-=======
-# 🦹‍♂️ La Legión del Mal -  Desde Local2
->>>>>>> 7d757b7 (fix: Actualizar README local)
+
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
